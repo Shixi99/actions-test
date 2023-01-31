@@ -1284,3 +1284,5 @@
 2023-01-31 18:25:25,202 - __main__ - INFO - Token value: 1234
 2023-01-31 20:21:50,382 - __main__ - INFO - Token value: 1234
 2023-01-31 20:21:51,411 - __main__ - INFO - Weather in Baku: 8.03
+2023-01-31 22:20:06,659 - __main__ - INFO - Token value: 1234
+2023-01-31 22:20:07,950 - __main__ - INFO - Weather in Baku: 7.03
