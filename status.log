@@ -1606,3 +1606,5 @@
 2023-02-14 04:26:35,398 - __main__ - INFO - Weather in Baku: -1.97
 2023-02-14 06:27:30,629 - __main__ - INFO - Token value: 1234
 2023-02-14 06:27:31,318 - __main__ - INFO - Weather in Baku: 3.03
+2023-02-14 08:27:55,742 - __main__ - INFO - Token value: 1234
+2023-02-14 08:27:56,137 - __main__ - INFO - Weather in Baku: 5.03
